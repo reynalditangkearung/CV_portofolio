@@ -1,1 +1,1 @@
-# CV_portofolio
+# COmputer Vision portofolio
