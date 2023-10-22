@@ -1,1 +1,1 @@
-# COmputer Vision portofolio
+# Computer Vision project
